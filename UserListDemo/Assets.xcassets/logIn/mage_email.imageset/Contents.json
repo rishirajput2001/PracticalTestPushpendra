@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mage_email.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
